@@ -1,0 +1,40 @@
+Hamburguer Vegetariano,15.99,200,200,true,Feijão legumes temperos
+Pizza Margherita,29.90,201,800,true,Massa de pizza molho de tomate queijo manjericão
+Salada Caesar,12.50,202,350,true,Alface croutons queijo parmesão molho Caesar
+Sushi Vegano,24.99,203,300,true,Arroz alga nori vegetais molho de soja
+Massa ao Pesto,18.75,204,400,true,Massa de macarrão manjericão pinhões queijo parmesão
+Sanduíche de Falafel,10.50,205,250,true,Falafel pão sírio alface tomate tahini
+Taco Vegano,13.25,206,200,true,Proteína de soja tortilha de milho alface tomate abacate
+Curry de Vegetais,17.00,207,450,true,Legumes variados molho curry arroz
+Sopa de Lentilhas,8.99,208,350,true,Lentilhas cenoura cebola alho
+Tofu Grelhado,11.75,209,300,true,Tofu temperos molho teriyaki
+Espaguete à Carbonara Vegano,16.50,210,350,true,Massa de espaguete creme de castanhas de caju bacon vegetal
+Salada de Quinoa,14.25,211,400,true,Quinoa pepino tomate azeitonas azeite
+Wrap de Vegetais,12.00,212,300,true,Tortilha de trigo vegetais grelhados molho de iogurte vegano
+Risoto de Cogumelos,19.99,213,450,true,Arroz cogumelos cebola caldo vegetal vinho branco
+Lasanha de Berinjela,22.50,214,600,true,Berinjela massa de lasanha queijo vegano molho de tomate
+Bolinho de Grão-de-Bico,9.75,215,250,true,Grão-de-bico temperos molho de tahini
+Sopa de Abóbora,7.50,216,350,true,Abóbora cebola alho caldo de legumes
+Poke Bowl Vegano,18.50,217,450,true,Arroz de sushi vegetais abacate molho de gergelim
+Chili Vegano,14.75,218,400,true,Feijão milho pimentão temperos nachos
+Panquecas de Banana,10.00,219,350,true,Banana farinha de aveia leite vegetal xarope de bordo
+Bife à Parmegiana,25.99,220,400,false,Bife de carne queijo molho de tomate parmesão
+Frango Frito,14.90,221,300,false,Pedaços de frango farinha de trigo temperos
+Pizza de Pepperoni,31.50,222,800,false,Massa de pizza molho de tomate queijo pepperoni
+Sanduíche de Bacon,11.75,223,250,false,Bacon alface tomate maionese
+Hamburguer com Queijo,13.25,224,200,false,Hamburguer de carne queijo pão condimentos
+Salmão Grelhado,19.50,225,350,false,Salmão azeite limão temperos
+Taco de Carne,15.99,226,200,false,Carne moída tortilha de milho alface queijo molho de tomate
+Omelete de Presunto,9.00,227,300,false,Ovos presunto queijo cebola
+Sopa de Frango com Macarrão,8.75,228,350,false,Frango desfiado macarrão cenoura caldo de galinha
+Taco de Peixe,16.50,229,250,false,Peixe grelhado tortilha de milho repolho molho de coentro
+Massa Carbonara,21.99,230,400,false,Massa de espaguete bacon ovos queijo parmesão
+Bife de T-Bone,29.75,231,600,false,Bife de T-Bone temperos manteiga de alho
+Lasanha Bolonhesa,19.99,232,450,false,Massa de lasanha carne moída queijo molho bolonhesa
+Frango à Milanesa,12.50,233,350,false,Pedaços de frango empanados limão salada
+Risoto de Frutos do Mar,24.50,234,450,false,Arroz frutos do mar (camarão mexilhões lula) caldo de peixe
+Panquecas com Manteiga e Mel,9.25,235,350,false,Massa de panqueca manteiga mel
+Sopa de Creme de Cogumelos,7.75,236,350,false,Cogumelos creme de leite caldo de galinha
+Churrasco de Costela,32.00,237,600,false,Costelas de carne temperos molho de churrasco
+Frango à Parmegiana,18.75,238,400,false,Pedaços de frango queijo molho de tomate parmesão
+Salada de Atum,10.25,239,300,false,Atum em lata alface tomate cebola maionese
