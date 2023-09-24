@@ -1,0 +1,23 @@
+== Introduction to Kotlin
+
+
+
+== Modulo 02 - Aula 03
+Nessa aulas fizemos nosso primeiro app android utilizando a linguagem Kotlin.
+Topicos vistos:	  
+	- Componentes: EditText, TextView, ImageView, ScrollView, Progressbar
+	- Linear Layout
+	- Fazer a ligacao entre uma view e a sua variavel em codigo kotlin
+	- Breve explicacao sobre como funciona a coroutine no android
+
+== Modulo 02 - Aula 04
+
+Topicos vistos:
+	- ListView (apartir da api 21 do android é recomendado utilizar o RecicleView para listas)
+	- Bindind
+		dentro do gradle a nivel de app, inserir dentro da chave android
+			viewBindind {
+				enabled = true
+			}
+	- Setting long click listener
+	- AlertDialog
